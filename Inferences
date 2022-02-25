@@ -1,0 +1,7 @@
+The Bar Graph provides the relationship between the multiple variables and the target variable, Sale Price of the House. As seen, multiple factors affect the sale price with the Overall Grade being the one having the most positive impact and zip-code having the most negative impact on the Sale Price of the House.
+
+The No of bedrooms and Lot area after Renovation actually has minimum impact on the sale price. Another thing that can be inferred is that the Latitude plays an important role in the sale price whereas the Longitude has a negative impact albeit little on the sale price.
+
+Accordingly, the more older the house is the more the cost and renovated houses are priced more according to the Living area after renovation. Ironically the number of Bedrooms have the most minimum effect on the sale price as compared to the number of Bathrooms or even number of Floors.
+
+Thus based on the coefficients obtained from the Linear Regression Model, one would be able to predict the Sale Price of a house in the area the primary dataset has been obtained from.
